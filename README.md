@@ -38,7 +38,7 @@ Analyzed 1.6M+ records of temperature data to identify trends and train predicti
 
 ## 🏛 Other Academic Projects
 
-### 🎬 [Netflix Catalog Analysis (Descriptive Analytics)]([https://github.com/Nicolereiman/netflix-catalog-analysis](https://github.com/Nicolereiman/Movies))
+### 🎬 [Movie Catalog Analysis (Descriptive Analytics)](https://github.com/Nicolereiman/Movies)
 **Tools:** R, MCA, Chi-Square, T-Test  
 Exploratory analysis of 8,000+ titles on Netflix: country representation, genre trends, movie/series distribution over time.
 
