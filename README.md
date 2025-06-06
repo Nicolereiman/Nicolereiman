@@ -34,7 +34,7 @@ Analyzed 1.6M+ records of temperature data to identify trends and train predicti
 
 > 🧠 Focus on data pipeline design, model evaluation, and cost-aware experimentation.
 
-### ⏳ [Time Series Forecasting with Streamlit] (https://github.com/Nicolereiman/climate-deploy)
+### ⏳ [Time Series Forecasting with Streamlit](https://github.com/Nicolereiman/climate-deploy)
 **Tools:** Python, Pandas, GIS, Streamlit
 Adapted version of the previous climate project, with a new focus on time series modeling and user-facing deployment.
 
