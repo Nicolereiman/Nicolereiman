@@ -28,7 +28,7 @@ A personal data project tracking and analyzing emotional patterns across 12 mont
 
 ---
 
-### 🌡️ [Global Climate Trends with PySpark]([https://github.com/Nicolereiman/global-temp-spark](https://github.com/Nicolereiman/climate))
+### 🌡️ [Global Climate Trends with PySpark](https://github.com/Nicolereiman/climate)
 **Tools:** PySpark, Databricks (Community), Prophet, Random Forest  
 Analyzed 1.6M+ records of temperature data to identify trends and train predictive models for India’s climate. All executed in a limited-resource cloud environment.
 
