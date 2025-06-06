@@ -12,7 +12,7 @@ This portfolio focuses on how data can drive **insights, growth, and strategy** 
 
 ## 🌍 Most Relevant Projects
 
-### 🎧 [Spotify Popularity Prediction](https://github.com/Nicolereiman/spotify-popularity-model)
+### 🎧 [Spotify Popularity Prediction](https://github.com/Nicolereiman/spotify-popularity)
 **Tools:** Python, Scikit-learn, XGBoost, SHAP, Hyperopt  
 Used machine learning to predict a song’s popularity on Spotify using audio features. Includes pipeline modeling, hyperparameter optimization, and model interpretability.
 
@@ -20,7 +20,7 @@ Used machine learning to predict a song’s popularity on Spotify using audio fe
 
 ---
 
-### 🌱 [Emotional Data Diary – Crying Tracker 2023](https://github.com/Nicolereiman/crying-analysis)
+### 🌱 [Emotional Data Diary – Crying Tracker 2023](https://github.com/Nicolereiman/A-Year-in-Tears-2023)
 **Tools:** Excel, Canva, Self-quantified log  
 A personal data project tracking and analyzing emotional patterns across 12 months. Explores crying frequency, causes, locations, cycle phases, and emotional context.
 
@@ -28,7 +28,7 @@ A personal data project tracking and analyzing emotional patterns across 12 mont
 
 ---
 
-### 🌡️ [Global Climate Trends with PySpark](https://github.com/Nicolereiman/global-temp-spark)
+### 🌡️ [Global Climate Trends with PySpark]([https://github.com/Nicolereiman/global-temp-spark](https://github.com/Nicolereiman/climate))
 **Tools:** PySpark, Databricks (Community), Prophet, Random Forest  
 Analyzed 1.6M+ records of temperature data to identify trends and train predictive models for India’s climate. All executed in a limited-resource cloud environment.
 
@@ -38,7 +38,7 @@ Analyzed 1.6M+ records of temperature data to identify trends and train predicti
 
 ## 🏛 Other Academic Projects
 
-### 🎬 [Netflix Catalog Analysis (Descriptive Analytics)](https://github.com/Nicolereiman/netflix-catalog-analysis)
+### 🎬 [Netflix Catalog Analysis (Descriptive Analytics)]([https://github.com/Nicolereiman/netflix-catalog-analysis](https://github.com/Nicolereiman/Movies))
 **Tools:** R, MCA, Chi-Square, T-Test  
 Exploratory analysis of 8,000+ titles on Netflix: country representation, genre trends, movie/series distribution over time.
 
@@ -46,13 +46,13 @@ Exploratory analysis of 8,000+ titles on Netflix: country representation, genre 
 
 ---
 
-### 🏦 [Bank Queue Simulation (AnyLogic)](https://github.com/Nicolereiman/bank-simulation-anylogic)
+### 🏦 [Bank Queue Simulation (AnyLogic)](https://github.com/Nicolereiman/Bank-Simulation)
 **Tools:** AnyLogic (Personal Edition), Agent-Based Modeling  
 Simulated client flow and employee scheduling in a bank branch. Explored service level maximization under budget and infrastructure constraints.
 
 ---
 
-### 🌽 [Corn Stand Counting with YOLOv5 (Bachelor Thesis)](https://github.com/Nicolereiman/corn-yolov5-thesis)
+### 🌽 [Corn Stand Counting with YOLOv5 (Bachelor Thesis)](https://github.com/Nicolereiman/stand-count)
 **Tools:** YOLOv5, Drone Imagery, Python  
 Developed a plant detection system for agriculture using object detection and bounding box annotation. Quantified performance vs. manual labor cost.
 
