@@ -18,13 +18,6 @@ Used machine learning to predict a song’s popularity on Spotify using audio fe
 
 > 📊 Business framing: how can we identify and promote future hits using historical listening and audio data?
 
----
-
-### 🌱 [Emotional Data Diary – Crying Tracker 2023](https://github.com/Nicolereiman/A-Year-in-Tears-2023)
-**Tools:** Excel, Canva, Self-quantified log  
-A personal data project tracking and analyzing emotional patterns across 12 months. Explores crying frequency, causes, locations, cycle phases, and emotional context.
-
-> 📌 Why it matters: Even personal data can lead to actionable patterns and behavioral insight — with the right framing.
 
 ---
 
@@ -44,6 +37,21 @@ Developed a forecasting model from the same dataset and deployed it as an intera
 
 ---
 
+### 🌽 [Corn Stand Counting with YOLOv5 (Bachelor Thesis)](https://github.com/Nicolereiman/stand-count)
+**Tools:** YOLOv5, Drone Imagery, Python  
+Developed a plant detection system for agriculture using object detection and bounding box annotation. Quantified performance vs. manual labor cost.
+
+---
+
+### 🌱 [Emotional Data Diary – Crying Tracker 2023](https://github.com/Nicolereiman/A-Year-in-Tears-2023)
+**Tools:** Excel, Canva, Self-quantified log  
+A personal data project tracking and analyzing emotional patterns across 12 months. Explores crying frequency, causes, locations, cycle phases, and emotional context.
+
+> 📌 Why it matters: Even personal data can lead to actionable patterns and behavioral insight — with the right framing.
+
+---
+
+
 ## 🏛 Other Academic Projects
 
 ### 🎬 [Movie Catalog Analysis (Descriptive Analytics)](https://github.com/Nicolereiman/Movies)
@@ -57,12 +65,6 @@ Exploratory analysis of 8,000+ titles on Netflix: country representation, genre 
 ### 🏦 [Bank Queue Simulation (AnyLogic)](https://github.com/Nicolereiman/Bank-Simulation)
 **Tools:** AnyLogic (Personal Edition), Agent-Based Modeling  
 Simulated client flow and employee scheduling in a bank branch. Explored service level maximization under budget and infrastructure constraints.
-
----
-
-### 🌽 [Corn Stand Counting with YOLOv5 (Bachelor Thesis)](https://github.com/Nicolereiman/stand-count)
-**Tools:** YOLOv5, Drone Imagery, Python  
-Developed a plant detection system for agriculture using object detection and bounding box annotation. Quantified performance vs. manual labor cost.
 
 ---
 
