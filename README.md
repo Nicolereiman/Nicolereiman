@@ -43,7 +43,7 @@ Developed a plant detection system for agriculture using object detection and bo
 
 ---
 
-### 🌱 [Emotional Data Diary – Crying Tracker 2023](https://github.com/Nicolereiman/A-Year-in-Tears-2023)
+### 🌱 [Emotional Data Diary – Crying Tracker 2023](https://github.com/Nicolereiman/A-Year-in-Tears-2023?tab=readme-ov-file)
 **Tools:** Excel, Canva, Self-quantified log  
 A personal data project tracking and analyzing emotional patterns across 12 months. Explores crying frequency, causes, locations, cycle phases, and emotional context.
 
