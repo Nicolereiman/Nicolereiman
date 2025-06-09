@@ -106,5 +106,5 @@ These include real-world applications of data science in journalism.
 ---
 
 📍 Based in Buenos Aires  
-🌍 Open to relocate
+🌍 Open to relocate |  Holder of European Union citizenship
 📬 [LinkedIn](https://www.linkedin.com/in/nicole-reiman-32877b245/) · [GitHub](https://github.com/Nicolereiman)
