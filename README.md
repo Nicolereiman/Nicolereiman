@@ -66,6 +66,22 @@ Developed a plant detection system for agriculture using object detection and bo
 
 ---
 
+### 🌆 Discover Buenos Aires – Web Development Project
+**Tools:** HTML5, CSS3, JavaScript
+A front-end web project created during a university web programming course. The site showcases cultural walking tours in different neighborhoods of Buenos Aires (San Telmo, Recoleta, Palermo), allowing users to read descriptions, book tours, and leave reviews.
+
+> 🧭 Fully responsive and focused on accessibility, the design was built to make the city's historical and cultural richness more reachable to locals and visitors alike.
+
+> 📌 Why it matters: While not a data science project, this work reflects my interest in digital storytelling and my foundation in web technologies.
+
+---
+### 🎸 Band Explorer – PyQt Application  
+**Tools:** Python, PyQt5, Matplotlib
+Built a GUI tool to analyze local bands in Argentina based on genre, social presence, and location. Offers 14 interactive queries and visualizations on a real-world dataset.
+Emphasized modular design, GUI navigation, and data exploration.
+
+---
+
 ## 🛠 Skills Overview
 
 - **Languages & Tools**: Python, SQL, R, Spark, Tableau, Scikit-learn, SHAP, Prophet, Figma, Canva  
